@@ -1,1 +1,6 @@
 # protecting-the-elderly
+Cyber based scams and fraud disproportionately affect the elderly due to both increased targeting and psychological factors. The Internet serves as a resource for senior citizens to connect with friends and family, as well as access information about their health and finances The increased reliance on the Internet for communication and connection leaves senior citizens vulnerable to cybercrime, especially cyberfraud. 
+
+Protecting the elderly from cybercrime requires interagency communication, accessible mental health resources, and community education. Through reviewing the relationship between senior citizens and cyber issues and analyzing the current frameworks, this project develops a cybersecurity community education program and adaptable framework tailored to the needs of senior citizens. 
+
+The curriculum includes a lesson plan, a short quiz, a cybersecurity reference handout, an assisted notes handout, and a slide show presentation. The included framework will allow the curriculum to be updated as new cyber threats and scam trends emerge. The talk will cover reasons behind senior citizen fraud victimization and the steps communities can take to reduce it.
